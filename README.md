@@ -2,13 +2,13 @@
 
 # Word Template for NPU Thesis
 
-西北工业大学本科毕业设计论文模板（word 版本）
-
-注意：该模板仅对Microsoft Office Word适配，WPS等可能会有功能缺失或排版异常的状况！
-
 [![license](https://img.shields.io/github/license/Sirius0v0/word-template-for-NPU-thesis)](https://choosealicense.com/licenses/gpl-3.0/)
 [![version](https://img.shields.io/badge/version-v1.0-brightgreen)](https://github.com/Sirius0v0/word-template-for-NPU-thesis)
 [![platform](https://img.shields.io/badge/Word-Document-blue)](https://www.microsoft.com/zh-cn/microsoft-365/microsoft-office)
+
+西北工业大学本科毕业设计论文模板（word 版本）
+
+注意：该模板仅对Microsoft Office Word适配，WPS等可能会有功能缺失或排版异常的状况！
 
 </div>
 
