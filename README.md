@@ -137,7 +137,7 @@ graph TD;
 
 ## 贡献
 
-如果你在使用过程中发现任何问题，可以[提交Issues](https://github.com/Sirius0v0/word-template-for-NPU-thesis/issues) 、联系我（jonny@mail.nwpu.edu.cn）或自行 fork 修改后提交 pull request。
+如果你在使用过程中发现任何问题，可以[提交Issues](https://github.com/Sirius0v0/word-template-for-NPU-thesis/issues) 、联系我（zhangzhuoli@mail.nwpu.edu.cn）或自行 fork 修改后提交 pull request。
 
 ## 许可证
 
